@@ -3,9 +3,9 @@ package client
 import (
 	"fmt"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/common"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/api"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/core"
+	"github.com/qhxcWallet/gotron-sdk/pkg/common"
+	"github.com/qhxcWallet/gotron-sdk/pkg/proto/api"
+	"github.com/qhxcWallet/gotron-sdk/pkg/proto/core"
 )
 
 // GetNowBlock return TIP block
